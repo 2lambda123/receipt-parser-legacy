@@ -26,7 +26,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/receipt-parser-legacy](https://github.com/2lambda123/receipt-parser-legacy)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|14<br/>Tools used|01/09/24 <br/>Report generated|
+|14<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -79,7 +79,7 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[Pillow](https://pypi.org/project/Pillow)|v8.1.2|12/12/23|dependabot[bot] |HPND|[CVE-2021-25287](https://github.com/advisories/GHSA-77gc-v2xv-rvvh) (Critical)<br/>[CVE-2022-22817](https://github.com/advisories/GHSA-8vj2-vxx3-667w) (Critical)<br/>[CVE-2021-25288](https://github.com/advisories/GHSA-rwv7-3v45-hg29) (Critical)<br/>[CVE-2022-24303](https://github.com/advisories/GHSA-9j59-75qj-795w) (Critical)<br/>[CVE-2021-25291](https://github.com/advisories/GHSA-mvg9-xffr-p774) (High)<br/>[CVE-2021-28676](https://github.com/advisories/GHSA-7r7m-5h27-29hp) (High)<br/>[CVE-2021-28677](https://github.com/advisories/GHSA-q5hq-fp76-qmrc) (High)<br/>[CVE-2023-4863](https://github.com/advisories/GHSA-j7hp-h8jx-5ppr) (High)<br/>[CVE-2021-28675](https://github.com/advisories/GHSA-g6rj-rv7j-xwp4) (Moderate)<br/>[CVE-2022-22815](https://github.com/advisories/GHSA-pw3c-h7wp-cvhx) (Moderate)<br/>[CVE-2021-28678](https://github.com/advisories/GHSA-hjfx-8p6c-g7gx) (Moderate)<br/>[CVE-2022-22816](https://github.com/advisories/GHSA-xrcv-f9gm-v42c) (Moderate)<br/>[](https://github.com/advisories/GHSA-4fx9-vc88-q2xc) (Low)|
+|[Pillow](https://pypi.org/project/Pillow)|v8.1.2|12/12/23|dependabot[bot] |HPND|[CVE-2021-25288](https://github.com/advisories/GHSA-rwv7-3v45-hg29) (Critical)<br/>[CVE-2021-25287](https://github.com/advisories/GHSA-77gc-v2xv-rvvh) (Critical)<br/>[CVE-2022-22817](https://github.com/advisories/GHSA-8vj2-vxx3-667w) (Critical)<br/>[CVE-2022-24303](https://github.com/advisories/GHSA-9j59-75qj-795w) (Critical)<br/>[CVE-2021-25291](https://github.com/advisories/GHSA-mvg9-xffr-p774) (High)<br/>[CVE-2021-28676](https://github.com/advisories/GHSA-7r7m-5h27-29hp) (High)<br/>[CVE-2021-28677](https://github.com/advisories/GHSA-q5hq-fp76-qmrc) (High)<br/>[CVE-2023-4863](https://github.com/advisories/GHSA-j7hp-h8jx-5ppr) (High)<br/>[CVE-2023-50447](https://github.com/advisories/GHSA-3f63-hfp8-52jq) (High)<br/>[CVE-2021-28675](https://github.com/advisories/GHSA-g6rj-rv7j-xwp4) (Moderate)<br/>[CVE-2021-28678](https://github.com/advisories/GHSA-hjfx-8p6c-g7gx) (Moderate)<br/>[CVE-2022-22815](https://github.com/advisories/GHSA-pw3c-h7wp-cvhx) (Moderate)<br/>[CVE-2022-22816](https://github.com/advisories/GHSA-xrcv-f9gm-v42c) (Moderate)<br/>[](https://github.com/advisories/GHSA-4fx9-vc88-q2xc) (Low)|
 |[black](https://pypi.org/project/black)|v23.12.0|12/12/23|dependabot[bot] |MIT|N/A|
 |[numpy](https://pypi.org/project/numpy)|v1.21.5|11/18/20|William Todt |BSD-3-Clause|[CVE-2021-34141](https://github.com/advisories/GHSA-fpfv-jqm9-f5jm) (Moderate)|
 |[opencv-python](https://pypi.org/project/opencv-python)|v4.5.5|05/31/22|monolidth |MIT|N/A|
